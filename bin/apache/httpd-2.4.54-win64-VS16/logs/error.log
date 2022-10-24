@@ -1,0 +1,17 @@
+[Mon Oct 24 19:08:28.476597 2022] [mpm_winnt:notice] [pid 15536:tid 332] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.1.11 configured -- resuming normal operations
+[Mon Oct 24 19:08:28.476597 2022] [mpm_winnt:notice] [pid 15536:tid 332] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Mon Oct 24 19:08:28.476597 2022] [core:notice] [pid 15536:tid 332] AH00094: Command line: 'D:\\Nahrul\\laragon-portable\\bin\\apache\\httpd-2.4.54-win64-VS16\\bin\\httpd -d D:/Nahrul/laragon-portable/bin/apache/httpd-2.4.54-win64-VS16'
+[Mon Oct 24 19:08:28.476597 2022] [mpm_winnt:notice] [pid 15536:tid 332] AH00418: Parent: Created child process 4060
+Apache server interrupted...
+022] [mpm_winnt:notice] [pid 4060:tid 332] AH00354: Child: Starting 64 worker threads.
+[Mon Oct 24 19:11:26.994657 2022] [mpm_winnt:notice] [pid 15536:tid 332] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+[Mon Oct 24 19:12:54.184788 2022] [core:warn] [pid 15808:tid 352] AH00098: pid file D:/Nahrul/laragon-portable/bin/apache/httpd-2.4.54-win64-VS16/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Oct 24 19:12:54.325807 2022] [mpm_winnt:notice] [pid 15808:tid 352] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1q PHP/8.1.11 configured -- resuming normal operations
+[Mon Oct 24 19:12:54.325807 2022] [mpm_winnt:notice] [pid 15808:tid 352] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Mon Oct 24 19:12:54.325807 2022] [core:notice] [pid 15808:tid 352] AH00094: Command line: 'D:\\Nahrul\\laragon-portable\\bin\\apache\\httpd-2.4.54-win64-VS16\\bin\\httpd -d D:/Nahrul/laragon-portable/bin/apache/httpd-2.4.54-win64-VS16'
+[Mon Oct 24 19:12:54.325807 2022] [mpm_winnt:notice] [pid 15808:tid 352] AH00418: Parent: Created child process 2920
+Apache server interrupted...
+022] [mpm_winnt:notice] [pid 2920:tid 340] AH00354: Child: Starting 64 worker threads.
+[Mon Oct 24 22:02:25.697035 2022] [mpm_winnt:notice] [pid 15808:tid 352] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Oct 24 22:02:27.712996 2022] [mpm_winnt:notice] [pid 2920:tid 340] AH00364: Child: All worker threads have exited.

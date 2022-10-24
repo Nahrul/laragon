@@ -1,0 +1,171 @@
+[13-Oct-2022 16:47:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'ruster_digital' in D:\Nahrul\website\Ruster_Digital-new\config.php:9
+Stack trace:
+#0 D:\Nahrul\website\Ruster_Digital-new\config.php(9): mysqli_connect('localhost', 'root', '', 'ruster_digital')
+#1 D:\Nahrul\website\Ruster_Digital-new\function.php(3): require_once('D:\\Nahrul\\websi...')
+#2 D:\Nahrul\website\Ruster_Digital-new\login.php(3): include('D:\\Nahrul\\websi...')
+#3 {main}
+  thrown in D:\Nahrul\website\Ruster_Digital-new\config.php on line 9
+[13-Oct-2022 17:32:23 UTC] PHP Parse error:  syntax error, unexpected token "=" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 21
+[13-Oct-2022 20:15:45 UTC] PHP Parse error:  syntax error, unexpected token ")", expecting "->" or "?->" or "{" or "[" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 30
+[13-Oct-2022 20:22:42 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 34
+[13-Oct-2022 20:23:18 UTC] PHP Parse error:  syntax error, unexpected token ";" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 31
+[13-Oct-2022 20:39:01 UTC] PHP Parse error:  syntax error, unexpected token "echo" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 36
+[14-Oct-2022 06:09:07 UTC] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 39
+[14-Oct-2022 06:12:31 UTC] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 39
+[14-Oct-2022 06:12:35 UTC] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 39
+[14-Oct-2022 06:12:55 UTC] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 39
+[14-Oct-2022 06:13:25 UTC] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 39
+[14-Oct-2022 06:13:30 UTC] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 39
+[14-Oct-2022 06:14:03 UTC] PHP Parse error:  syntax error, unexpected double-quote mark in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 42
+[14-Oct-2022 06:23:28 UTC] PHP Parse error:  syntax error, unexpected variable "$sql", expecting "," or ";" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 45
+[14-Oct-2022 06:38:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function query() in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php:7
+Stack trace:
+#0 {main}
+  thrown in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 7
+[14-Oct-2022 06:39:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function query() in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php:7
+Stack trace:
+#0 {main}
+  thrown in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 7
+[14-Oct-2022 06:41:19 UTC] PHP Warning:  Undefined array key "regubatch" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 7
+[14-Oct-2022 06:41:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php:8
+Stack trace:
+#0 D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php(8): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 {main}
+  thrown in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 8
+[14-Oct-2022 06:42:38 UTC] PHP Warning:  Undefined array key "regubatch" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 7
+[14-Oct-2022 06:42:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php:8
+Stack trace:
+#0 D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php(8): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 {main}
+  thrown in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 8
+[14-Oct-2022 06:43:55 UTC] PHP Warning:  Undefined array key "regubatch" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 7
+[14-Oct-2022 06:43:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php:8
+Stack trace:
+#0 D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php(8): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 {main}
+  thrown in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 8
+[14-Oct-2022 06:46:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function tambahjadwal() in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php:33
+Stack trace:
+#0 {main}
+  thrown in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 33
+[14-Oct-2022 06:46:31 UTC] PHP Warning:  Undefined array key "regu" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 52
+[14-Oct-2022 06:46:31 UTC] PHP Warning:  Undefined array key "regu" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 52
+[14-Oct-2022 06:46:31 UTC] PHP Warning:  Undefined array key "regu" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 52
+[14-Oct-2022 06:46:31 UTC] PHP Warning:  Undefined array key "Aep_jam4" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 42
+[14-Oct-2022 06:46:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' 6)' at line 1 in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php:49
+Stack trace:
+#0 D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php(49): mysqli_query(Object(mysqli), 'INSERT INTO jag...')
+#1 {main}
+  thrown in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 49
+[14-Oct-2022 06:46:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php:8
+Stack trace:
+#0 D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php(8): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 {main}
+  thrown in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 8
+[14-Oct-2022 06:48:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php:8
+Stack trace:
+#0 D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php(8): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 {main}
+  thrown in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 8
+[14-Oct-2022 06:50:06 UTC] PHP Warning:  Undefined array key "Aep_jam4" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 42
+[14-Oct-2022 06:50:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' 6)' at line 1 in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php:49
+Stack trace:
+#0 D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php(49): mysqli_query(Object(mysqli), 'INSERT INTO jag...')
+#1 {main}
+  thrown in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 49
+[14-Oct-2022 06:55:50 UTC] PHP Warning:  Undefined array key "kehadiranArdi CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 06:55:50 UTC] PHP Warning:  Undefined array key "kehadiranArdi CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 06:55:50 UTC] PHP Warning:  Undefined array key "kehadiranArdi CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 06:55:50 UTC] PHP Warning:  Undefined array key "kehadiranArdi CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 06:55:50 UTC] PHP Warning:  Undefined array key "kehadiranDoni CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 06:55:50 UTC] PHP Warning:  Undefined array key "kehadiranDoni CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 06:55:50 UTC] PHP Warning:  Undefined array key "kehadiranDoni CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 06:55:50 UTC] PHP Warning:  Undefined array key "kehadiranDoni CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 06:55:50 UTC] PHP Warning:  Undefined array key "kehadiranFajar CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 06:55:50 UTC] PHP Warning:  Undefined array key "kehadiranFajar CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 06:55:50 UTC] PHP Warning:  Undefined array key "kehadiranFajar CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 06:55:50 UTC] PHP Warning:  Undefined array key "kehadiranFajar CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 06:55:50 UTC] PHP Warning:  Undefined array key "kehadiranReza CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 06:55:50 UTC] PHP Warning:  Undefined array key "kehadiranReza CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 06:55:50 UTC] PHP Warning:  Undefined array key "kehadiranReza CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 06:55:50 UTC] PHP Warning:  Undefined array key "kehadiranReza CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 06:57:01 UTC] PHP Warning:  Undefined array key "kehadiranArdi CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 06:57:01 UTC] PHP Warning:  Undefined array key "kehadiranArdi CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 06:57:01 UTC] PHP Warning:  Undefined array key "kehadiranArdi CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 06:57:01 UTC] PHP Warning:  Undefined array key "kehadiranArdi CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 06:57:01 UTC] PHP Warning:  Undefined array key "kehadiranDoni CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 06:57:01 UTC] PHP Warning:  Undefined array key "kehadiranDoni CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 06:57:01 UTC] PHP Warning:  Undefined array key "kehadiranDoni CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 06:57:01 UTC] PHP Warning:  Undefined array key "kehadiranDoni CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 06:57:01 UTC] PHP Warning:  Undefined array key "kehadiranFajar CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 06:57:01 UTC] PHP Warning:  Undefined array key "kehadiranFajar CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 06:57:01 UTC] PHP Warning:  Undefined array key "kehadiranFajar CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 06:57:01 UTC] PHP Warning:  Undefined array key "kehadiranFajar CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 06:57:01 UTC] PHP Warning:  Undefined array key "kehadiranReza CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 06:57:01 UTC] PHP Warning:  Undefined array key "kehadiranReza CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 06:57:01 UTC] PHP Warning:  Undefined array key "kehadiranReza CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 06:57:01 UTC] PHP Warning:  Undefined array key "kehadiranReza CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 06:58:16 UTC] PHP Warning:  Undefined array key "kehadiranArdi CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 06:58:16 UTC] PHP Warning:  Undefined array key "kehadiranArdi CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 06:58:16 UTC] PHP Warning:  Undefined array key "kehadiranArdi CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 06:58:16 UTC] PHP Warning:  Undefined array key "kehadiranArdi CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 06:58:16 UTC] PHP Warning:  Undefined array key "kehadiranDoni CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 06:58:16 UTC] PHP Warning:  Undefined array key "kehadiranDoni CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 06:58:16 UTC] PHP Warning:  Undefined array key "kehadiranDoni CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 06:58:16 UTC] PHP Warning:  Undefined array key "kehadiranDoni CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 06:58:16 UTC] PHP Warning:  Undefined array key "kehadiranFajar CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 06:58:16 UTC] PHP Warning:  Undefined array key "kehadiranFajar CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 06:58:16 UTC] PHP Warning:  Undefined array key "kehadiranFajar CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 06:58:16 UTC] PHP Warning:  Undefined array key "kehadiranFajar CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 06:58:16 UTC] PHP Warning:  Undefined array key "kehadiranReza CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 06:58:16 UTC] PHP Warning:  Undefined array key "kehadiranReza CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 06:58:16 UTC] PHP Warning:  Undefined array key "kehadiranReza CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 06:58:16 UTC] PHP Warning:  Undefined array key "kehadiranReza CPNS" in D:\Nahrul\website\Ruster_Digital-new\jadwal_jaga.php on line 40
+[14-Oct-2022 07:32:17 UTC] PHP Parse error:  syntax error, unexpected token ":", expecting "(" in D:\Nahrul\website\Ruster_Digital-new\riwayat_jaga.php on line 73
+[14-Oct-2022 07:32:33 UTC] PHP Parse error:  syntax error, unexpected token ":", expecting "(" in D:\Nahrul\website\Ruster_Digital-new\riwayat_jaga.php on line 73
+[14-Oct-2022 07:32:35 UTC] PHP Parse error:  syntax error, unexpected token ":", expecting "(" in D:\Nahrul\website\Ruster_Digital-new\riwayat_jaga.php on line 73
+[14-Oct-2022 07:32:35 UTC] PHP Parse error:  syntax error, unexpected token ":", expecting "(" in D:\Nahrul\website\Ruster_Digital-new\riwayat_jaga.php on line 73
+[14-Oct-2022 07:32:36 UTC] PHP Parse error:  syntax error, unexpected token ":", expecting "(" in D:\Nahrul\website\Ruster_Digital-new\riwayat_jaga.php on line 73
+[14-Oct-2022 07:32:48 UTC] PHP Parse error:  syntax error, unexpected token ":", expecting "(" in D:\Nahrul\website\Ruster_Digital-new\riwayat_jaga.php on line 73
+[24-Oct-2022 12:08:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'curl' (tried: D:/Nahrul/laragon-portable/bin/php/php-8.1.11-Win32-vs16-x64/ext\curl (The specified module could not be found), D:/Nahrul/laragon-portable/bin/php/php-8.1.11-Win32-vs16-x64/ext\php_curl.dll (The specified module could not be found)) in Unknown on line 0
+[24-Oct-2022 12:08:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl' (tried: D:/Nahrul/laragon-portable/bin/php/php-8.1.11-Win32-vs16-x64/ext\intl (The specified module could not be found), D:/Nahrul/laragon-portable/bin/php/php-8.1.11-Win32-vs16-x64/ext\php_intl.dll (The specified module could not be found)) in Unknown on line 0
+[24-Oct-2022 12:08:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'curl' (tried: D:/Nahrul/laragon-portable/bin/php/php-8.1.11-Win32-vs16-x64/ext\curl (The specified module could not be found), D:/Nahrul/laragon-portable/bin/php/php-8.1.11-Win32-vs16-x64/ext\php_curl.dll (The specified module could not be found)) in Unknown on line 0
+[24-Oct-2022 12:08:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl' (tried: D:/Nahrul/laragon-portable/bin/php/php-8.1.11-Win32-vs16-x64/ext\intl (The specified module could not be found), D:/Nahrul/laragon-portable/bin/php/php-8.1.11-Win32-vs16-x64/ext\php_intl.dll (The specified module could not be found)) in Unknown on line 0
+[24-Oct-2022 12:36:27 UTC] PHP Parse error:  syntax error, unexpected token "(", expecting "{" in D:\Nahrul\website\crud_php_mvc\app\controllers\Home.php on line 3
+[24-Oct-2022 12:37:15 UTC] PHP Parse error:  syntax error, unexpected token "(", expecting "{" in D:\Nahrul\website\crud_php_mvc\app\controllers\Home.php on line 3
+[24-Oct-2022 12:37:33 UTC] PHP Parse error:  syntax error, unexpected token "(", expecting "{" in D:\Nahrul\website\crud_php_mvc\app\controllers\Home.php on line 3
+[24-Oct-2022 12:37:34 UTC] PHP Parse error:  syntax error, unexpected token "(", expecting "{" in D:\Nahrul\website\crud_php_mvc\app\controllers\Home.php on line 3
+[24-Oct-2022 12:37:35 UTC] PHP Parse error:  syntax error, unexpected token "(", expecting "{" in D:\Nahrul\website\crud_php_mvc\app\controllers\Home.php on line 3
+[24-Oct-2022 12:37:54 UTC] PHP Warning:  Trying to access array offset on value of type null in D:\Nahrul\website\crud_php_mvc\app\core\App.php on line 19
+[24-Oct-2022 12:37:54 UTC] PHP Parse error:  syntax error, unexpected token "(", expecting "{" in D:\Nahrul\website\crud_php_mvc\app\controllers\Home.php on line 3
+[24-Oct-2022 12:38:52 UTC] PHP Warning:  Trying to access array offset on value of type null in D:\Nahrul\website\crud_php_mvc\app\core\App.php on line 19
+[24-Oct-2022 12:38:52 UTC] PHP Parse error:  syntax error, unexpected token "(", expecting "{" in D:\Nahrul\website\crud_php_mvc\app\controllers\Home.php on line 3
+[24-Oct-2022 12:38:53 UTC] PHP Warning:  Trying to access array offset on value of type null in D:\Nahrul\website\crud_php_mvc\app\core\App.php on line 19
+[24-Oct-2022 12:38:53 UTC] PHP Parse error:  syntax error, unexpected token "(", expecting "{" in D:\Nahrul\website\crud_php_mvc\app\controllers\Home.php on line 3
+[24-Oct-2022 12:38:53 UTC] PHP Warning:  Trying to access array offset on value of type null in D:\Nahrul\website\crud_php_mvc\app\core\App.php on line 19
+[24-Oct-2022 12:38:53 UTC] PHP Parse error:  syntax error, unexpected token "(", expecting "{" in D:\Nahrul\website\crud_php_mvc\app\controllers\Home.php on line 3
+[24-Oct-2022 12:38:53 UTC] PHP Warning:  Trying to access array offset on value of type null in D:\Nahrul\website\crud_php_mvc\app\core\App.php on line 19
+[24-Oct-2022 12:38:53 UTC] PHP Parse error:  syntax error, unexpected token "(", expecting "{" in D:\Nahrul\website\crud_php_mvc\app\controllers\Home.php on line 3
+[24-Oct-2022 12:38:53 UTC] PHP Warning:  Trying to access array offset on value of type null in D:\Nahrul\website\crud_php_mvc\app\core\App.php on line 19
+[24-Oct-2022 12:38:53 UTC] PHP Parse error:  syntax error, unexpected token "(", expecting "{" in D:\Nahrul\website\crud_php_mvc\app\controllers\Home.php on line 3
+[24-Oct-2022 12:38:53 UTC] PHP Warning:  Trying to access array offset on value of type null in D:\Nahrul\website\crud_php_mvc\app\core\App.php on line 19
+[24-Oct-2022 12:38:53 UTC] PHP Parse error:  syntax error, unexpected token "(", expecting "{" in D:\Nahrul\website\crud_php_mvc\app\controllers\Home.php on line 3
+[24-Oct-2022 12:38:54 UTC] PHP Warning:  Trying to access array offset on value of type null in D:\Nahrul\website\crud_php_mvc\app\core\App.php on line 19
+[24-Oct-2022 12:38:54 UTC] PHP Parse error:  syntax error, unexpected token "(", expecting "{" in D:\Nahrul\website\crud_php_mvc\app\controllers\Home.php on line 3
+[24-Oct-2022 12:38:54 UTC] PHP Warning:  Trying to access array offset on value of type null in D:\Nahrul\website\crud_php_mvc\app\core\App.php on line 19
+[24-Oct-2022 12:38:54 UTC] PHP Parse error:  syntax error, unexpected token "(", expecting "{" in D:\Nahrul\website\crud_php_mvc\app\controllers\Home.php on line 3
+[24-Oct-2022 12:38:54 UTC] PHP Warning:  Trying to access array offset on value of type null in D:\Nahrul\website\crud_php_mvc\app\core\App.php on line 19
+[24-Oct-2022 12:38:54 UTC] PHP Parse error:  syntax error, unexpected token "(", expecting "{" in D:\Nahrul\website\crud_php_mvc\app\controllers\Home.php on line 3
+[24-Oct-2022 12:38:54 UTC] PHP Warning:  Trying to access array offset on value of type null in D:\Nahrul\website\crud_php_mvc\app\core\App.php on line 19
+[24-Oct-2022 12:38:54 UTC] PHP Parse error:  syntax error, unexpected token "(", expecting "{" in D:\Nahrul\website\crud_php_mvc\app\controllers\Home.php on line 3
+[24-Oct-2022 12:39:13 UTC] PHP Parse error:  syntax error, unexpected token "(", expecting "{" in D:\Nahrul\website\crud_php_mvc\app\controllers\Home.php on line 3
+[24-Oct-2022 12:47:02 UTC] PHP Warning:  Trying to access array offset on value of type null in D:\Nahrul\website\crud_php_mvc\app\core\App.php on line 19
+[24-Oct-2022 12:48:19 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in D:\Nahrul\website\crud_php_mvc\app\core\App.php on line 19
+[24-Oct-2022 12:52:17 UTC] PHP Warning:  Undefined variable $url in D:\Nahrul\website\crud_php_mvc\app\core\App.php on line 14
+[24-Oct-2022 12:52:17 UTC] PHP Warning:  Trying to access array offset on value of type null in D:\Nahrul\website\crud_php_mvc\app\core\App.php on line 22
+[24-Oct-2022 14:44:13 UTC] PHP Parse error:  syntax error, unexpected token "=", expecting "]" in D:\Nahrul\website\crud_php_mvc\app\controllers\About.php on line 6
+[24-Oct-2022 14:55:26 UTC] PHP Parse error:  syntax error, unexpected variable "$this" in D:\Nahrul\website\crud_php_mvc\app\controllers\About.php on line 15
+[24-Oct-2022 14:55:54 UTC] PHP Warning:  Undefined array key "nama" in D:\Nahrul\website\crud_php_mvc\app\views\about\index.php on line 3
+[24-Oct-2022 14:55:54 UTC] PHP Warning:  Undefined array key "umur" in D:\Nahrul\website\crud_php_mvc\app\views\about\index.php on line 3
+[24-Oct-2022 14:55:54 UTC] PHP Warning:  Undefined array key "pekerjaan" in D:\Nahrul\website\crud_php_mvc\app\views\about\index.php on line 3
+[24-Oct-2022 14:57:11 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in D:\Nahrul\website\crud_php_mvc\app\views\templates\header.php on line 7
